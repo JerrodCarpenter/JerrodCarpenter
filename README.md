@@ -1,16 +1,16 @@
-### Hi there 👋
+### Howdy 👋
 
-<!--
-**JerrodCarpenter/JerrodCarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- I love working hard problems and finding elegant solutions. That all starts with being humble enough to work on novel technologies and systems. From automating and connecting infrastructure across the globe to applying responsive design to our web pages, Cerner has given me a breadth of opportunities in many disciplines. What keeps me going is the next challenge. 
+- Cerner featured me on their engineering blog, [take a look](https://engineering.cerner.com/blog/cerner-and-icontrol/).
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+### Connect
+[![Linkedin: jerrod-carpenter](https://img.shields.io/badge/JerrodCarpenter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerrod-carpenter-27317a5b/)](https://www.linkedin.com/in/jerrod-carpenter-27317a5b/) &nbsp;
+[![GitHub Jerrod Carpenter](https://img.shields.io/github/followers/JerrodCarpenter?label=follow&style=social)](https://github.com/JerrodCarpenter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![JerrodCarpenter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerrodCarpenter&show_icons=true)](https://github.com/JerrodCarpenter)
+
+[![JerrodCarpenter's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerrodCarpenter&layout=compact&theme=radical)](https://github.com/JerrodCarpenter)
+
+![](https://visitor-badge.glitch.me/badge?page_id=JerrodCarpenter.JerrodCarpenter)
