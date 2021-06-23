@@ -8,9 +8,4 @@
 ### Connect
 [![Linkedin: jerrod-carpenter](https://img.shields.io/badge/JerrodCarpenter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerrod-carpenter-27317a5b/)](https://www.linkedin.com/in/jerrod-carpenter-27317a5b/) &nbsp;
 [![GitHub Jerrod Carpenter](https://img.shields.io/github/followers/JerrodCarpenter?label=follow&style=social)](https://github.com/JerrodCarpenter)
-
-[![JerrodCarpenter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerrodCarpenter&show_icons=true)](https://github.com/JerrodCarpenter)
-
-[![JerrodCarpenter's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerrodCarpenter&layout=compact&theme=radical)](https://github.com/JerrodCarpenter)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=JerrodCarpenter.JerrodCarpenter)
