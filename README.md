@@ -9,5 +9,3 @@ Come work with us at [Underdog](https://jobs.lever.co/underdog-sports)!
 
 ### Connect
 [![Linkedin: jerrod-carpenter](https://img.shields.io/badge/JerrodCarpenter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerrod-carpenter-27317a5b/)](https://www.linkedin.com/in/jerrod-carpenter-27317a5b/) &nbsp;
-[![GitHub Jerrod Carpenter](https://img.shields.io/github/followers/JerrodCarpenter?label=follow&style=social)](https://github.com/JerrodCarpenter)
-![](https://visitor-badge.glitch.me/badge?page_id=JerrodCarpenter.JerrodCarpenter)
